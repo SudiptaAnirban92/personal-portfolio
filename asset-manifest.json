@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/personal-portolio/static/css/main.a9806a70.css",
-    "main.js": "/personal-portolio/static/js/main.c610173a.js",
-    "static/media/best-eats.jpg": "/personal-portolio/static/media/best-eats.f17b5e4c35f21ed772de.jpg",
-    "static/media/tech-doc.jpg": "/personal-portolio/static/media/tech-doc.b521aa7c3b8d4aa4ee55.jpg",
-    "static/media/survey-form.jpg": "/personal-portolio/static/media/survey-form.2febc50d029744d05716.jpg",
-    "static/media/basic-landing.jpg": "/personal-portolio/static/media/basic-landing.e414d6c45c7ee563262b.jpg",
-    "static/media/data-finance.jpg": "/personal-portolio/static/media/data-finance.62fa9bbc89689d9be862.jpg",
-    "static/media/todo-list.jpg": "/personal-portolio/static/media/todo-list.e6ff5754a870cb390b47.jpg",
-    "static/media/react.png": "/personal-portolio/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/github.png": "/personal-portolio/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/html.png": "/personal-portolio/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/logo2.png": "/personal-portolio/static/media/logo2.376ad7f82a757f96ae79.png",
-    "static/media/tailwind.png": "/personal-portolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
-    "static/media/css.png": "/personal-portolio/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/javascript.png": "/personal-portolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/personal-portolio/index.html",
-    "main.a9806a70.css.map": "/personal-portolio/static/css/main.a9806a70.css.map",
-    "main.c610173a.js.map": "/personal-portolio/static/js/main.c610173a.js.map"
+    "main.css": "/personal-portfolio/static/css/main.a9806a70.css",
+    "main.js": "/personal-portfolio/static/js/main.a4620911.js",
+    "static/media/best-eats.jpg": "/personal-portfolio/static/media/best-eats.f17b5e4c35f21ed772de.jpg",
+    "static/media/tech-doc.jpg": "/personal-portfolio/static/media/tech-doc.b521aa7c3b8d4aa4ee55.jpg",
+    "static/media/survey-form.jpg": "/personal-portfolio/static/media/survey-form.2febc50d029744d05716.jpg",
+    "static/media/basic-landing.jpg": "/personal-portfolio/static/media/basic-landing.e414d6c45c7ee563262b.jpg",
+    "static/media/data-finance.jpg": "/personal-portfolio/static/media/data-finance.62fa9bbc89689d9be862.jpg",
+    "static/media/todo-list.jpg": "/personal-portfolio/static/media/todo-list.e6ff5754a870cb390b47.jpg",
+    "static/media/react.png": "/personal-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/personal-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/personal-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/logo2.png": "/personal-portfolio/static/media/logo2.376ad7f82a757f96ae79.png",
+    "static/media/tailwind.png": "/personal-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/personal-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/personal-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/personal-portfolio/index.html",
+    "main.a9806a70.css.map": "/personal-portfolio/static/css/main.a9806a70.css.map",
+    "main.a4620911.js.map": "/personal-portfolio/static/js/main.a4620911.js.map"
   },
   "entrypoints": [
     "static/css/main.a9806a70.css",
-    "static/js/main.c610173a.js"
+    "static/js/main.a4620911.js"
   ]
 }
