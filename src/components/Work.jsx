@@ -31,12 +31,18 @@ const Work = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://sudiptaanirban92.github.io/food-app-react/" target="target_blank">
+                <a
+                  href="https://sudiptaanirban92.github.io/food-app-react/"
+                  target="target_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/SudiptaAnirban92/food-app-react.git " target="target_blank">
+                <a
+                  href="https://github.com/SudiptaAnirban92/food-app-react.git "
+                  target="target_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -59,7 +65,10 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/SudiptaAnirban92/react-todo-list.git" target="target_blank">
+                <a
+                  href="https://github.com/SudiptaAnirban92/react-todo-list.git"
+                  target="target_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -77,12 +86,18 @@ const Work = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://sudiptaanirban92.github.io/data-finance/" target="target_blank">
+                <a
+                  href="https://sudiptaanirban92.github.io/data-finance/"
+                  target="target_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/SudiptaAnirban92/data-finance.git" target="target_blank">
+                <a
+                  href="https://github.com/SudiptaAnirban92/data-finance.git"
+                  target="target_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -100,12 +115,18 @@ const Work = () => {
                 HTML/CSS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a
+                  href="https://sudiptaanirban92.github.io/survey-form/"
+                  target="target_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/SudiptaAnirban92/survey-form.git" target="target_blank">
+                <a
+                  href="https://github.com/SudiptaAnirban92/survey-form.git"
+                  target="target_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -123,12 +144,18 @@ const Work = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://sudiptaanirban92.github.io/basic-landing-page/" target="target_blank">
+                <a
+                  href="https://sudiptaanirban92.github.io/basic-landing-page/"
+                  target="target_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/SudiptaAnirban92/basic-landing-page.git" target="target_blank">
+                <a
+                  href="https://github.com/SudiptaAnirban92/basic-landing-page.git"
+                  target="target_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -151,7 +178,10 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/SudiptaAnirban92/technical-documentation.git" target="target_blank">
+                <a
+                  href="https://github.com/SudiptaAnirban92/technical-documentation.git"
+                  target="target_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
