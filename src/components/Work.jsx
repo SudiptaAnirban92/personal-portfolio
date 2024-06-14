@@ -2,9 +2,9 @@ import React from "react";
 import basic from "../assets/basic-landing.jpg";
 import data from "../assets/data-finance.jpg";
 import eats from "../assets/best-eats.jpg";
-import survey from "../assets/survey-form.jpg";
-import tech from "../assets/tech-doc.jpg";
-import todo from "../assets/todo-list.jpg";
+import solar from "../assets/solar.jpg";
+import portfolio from "../assets/portfolio.jpg";
+import docs from "../assets/docs.jpg";
 
 const Work = () => {
   return (
@@ -22,7 +22,11 @@ const Work = () => {
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
           {/* Grid item */}
           <div
-            style={{ backgroundImage: `url(${eats})` }}
+            style={{
+              backgroundImage: `url(${eats})`,
+              backgroundSize: `cover`,
+              backgroundPosition: `center`,
+            }}
             className="shadow-lg shadow-[#001a1a] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover effects */}
@@ -51,7 +55,11 @@ const Work = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${todo})` }}
+            style={{
+              backgroundImage: `url(${portfolio})`,
+              backgroundSize: `cover`,
+              backgroundPosition: `center`,
+            }}
             className="shadow-lg shadow-[#001a1a] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover effects */}
@@ -60,13 +68,16 @@ const Work = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a
+                  href="https://portfolio-nextjs-pink-beta.vercel.app/"
+                  target="target_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
                 <a
-                  href="https://github.com/SudiptaAnirban92/react-todo-list.git"
+                  href="https://github.com/SudiptaAnirban92/portfolio-nextjs.git"
                   target="target_blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
@@ -77,7 +88,11 @@ const Work = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${data})` }}
+            style={{
+              backgroundImage: `url(${data})`,
+              backgroundSize: `cover`,
+              backgroundPosition: `center`,
+            }}
             className="shadow-lg shadow-[#001a1a] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover effects */}
@@ -106,7 +121,11 @@ const Work = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${survey})` }}
+            style={{
+              backgroundImage: `url(${solar})`,
+              backgroundSize: `cover`,
+              backgroundPosition: `center`,
+            }}
             className="shadow-lg shadow-[#001a1a] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover effects */}
@@ -116,7 +135,7 @@ const Work = () => {
               </span>
               <div className="pt-8 text-center">
                 <a
-                  href="https://sudiptaanirban92.github.io/survey-form/"
+                  href="https://solar-app-react.vercel.app/"
                   target="target_blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
@@ -124,7 +143,7 @@ const Work = () => {
                   </button>
                 </a>
                 <a
-                  href="https://github.com/SudiptaAnirban92/survey-form.git"
+                  href="https://github.com/SudiptaAnirban92/solar-app-react.git"
                   target="target_blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
@@ -135,7 +154,11 @@ const Work = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${basic})` }}
+            style={{
+              backgroundImage: `url(${docs})`,
+              backgroundSize: `cover`,
+              backgroundPosition: `center`,
+            }}
             className="shadow-lg shadow-[#001a1a] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover effects */}
@@ -145,7 +168,7 @@ const Work = () => {
               </span>
               <div className="pt-8 text-center">
                 <a
-                  href="https://sudiptaanirban92.github.io/basic-landing-page/"
+                  href="https://docs-react-self.vercel.app/"
                   target="target_blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
@@ -153,7 +176,7 @@ const Work = () => {
                   </button>
                 </a>
                 <a
-                  href="https://github.com/SudiptaAnirban92/basic-landing-page.git"
+                  href="https://github.com/SudiptaAnirban92/docs-react.git"
                   target="target_blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
@@ -164,7 +187,11 @@ const Work = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${tech})` }}
+            style={{
+              backgroundImage: `url(${basic})`,
+              backgroundSize: `cover`,
+              backgroundPosition: `center`,
+            }}
             className="shadow-lg shadow-[#001a1a] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover effects */}
@@ -173,13 +200,13 @@ const Work = () => {
                 HTML/CSS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://sudiptaanirban92.github.io/basic-landing-page/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
                 <a
-                  href="https://github.com/SudiptaAnirban92/technical-documentation.git"
+                  href="https://github.com/SudiptaAnirban92/basic-landing-page.git"
                   target="target_blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
