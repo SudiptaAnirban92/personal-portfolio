@@ -200,7 +200,7 @@ const Work = () => {
                 HTML/CSS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://sudiptaanirban92.github.io/basic-landing-page/">
+                <a href="https://sudiptaanirban92.github.io/basic-landing-page/" target="target_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
